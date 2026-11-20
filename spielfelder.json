@@ -1,17 +1,5 @@
 {
   "version": 1,
   "aktualisiert": "2026-11-20",
-  "spielfelder": [
-    {
-      "name": "Testfeld Alpha",
-      "ort": "00000 Testhausen",
-      "art": "Wald",
-      "website": "https://example.org"
-    },
-    {
-      "name": "Testfeld Bravo",
-      "ort": "00001 Testdorf",
-      "art": "CQB"
-    }
-  ]
+  "spielfelder": []
 }
