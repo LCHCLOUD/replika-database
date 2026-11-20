@@ -1,5 +1,7 @@
 {
   "version": 1,
   "aktualisiert": "2026-11-20",
-  "spielfelder": []
+  "spielfelder": [
+  { "name": "Mr. Airsoft", "ort": "Welserstraße 13, 59557 Lippstadt", "art": "CQB", "website": "https://mr-airsoft.eu" }
+  ]
 }
