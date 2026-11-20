@@ -169,6 +169,23 @@
       "typ": "Sturmgewehr",
       "antrieb": "HPA",
       "fps": 330
+    },
+    {
+      "hersteller": "Test",
+      "modell": "Fototest",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "fps": 250,
+      "bbGewicht": 0.25,
+      "akkuArt": "NiMH",
+      "akku": "8,4 V 1600 mAh",
+      "hopUp": "Testwert Hop-up 2/4",
+      "zubehoer": [
+        "Testmagazin",
+        "Testvisier"
+      ],
+      "notizen": "Nur zum Testen",
+      "foto": "fotos/fototest.png"
     }
   ]
 }
