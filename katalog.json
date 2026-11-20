@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "aktualisiert": "2026-11-20",
+  "waffen": [
+    {
+      "hersteller": "Tokyo Marui",
+      "modell": "M4A1 MWS",
+      "typ": "Sturmgewehr",
+      "antrieb": "GBB",
+      "fps": 300
+    },
+    {
+      "hersteller": "Tokyo Marui",
+      "modell": "SCAR-H",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "fps": 290
+    },
+    {
+      "hersteller": "Tokyo Marui",
+      "modell": "Glock 17 Gen.3",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "fps": 270
+    },
+    {
+      "hersteller": "Tokyo Marui",
+      "modell": "Hi-Capa 5.1",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "fps": 270
+    },
+    {
+      "hersteller": "Tokyo Marui",
+      "modell": "VSR-10 Pro Sniper",
+      "typ": "Sniper",
+      "antrieb": "Federdruck",
+      "fps": 390
+    },
+    {
+      "hersteller": "G&G",
+      "modell": "CM16 Raider 2.0",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "fps": 330
+    },
+    {
+      "hersteller": "G&G",
+      "modell": "CM16 SRL",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "fps": 330
+    },
+    {
+      "hersteller": "G&G",
+      "modell": "ARP 9",
+      "typ": "SMG",
+      "antrieb": "AEG",
+      "fps": 330
+    },
+    {
+      "hersteller": "Specna Arms",
+      "modell": "SA-C01 CORE",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "fps": 330
+    },
+    {
+      "hersteller": "Specna Arms",
+      "modell": "SA-C02 CORE",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "fps": 330
+    },
+    {
+      "hersteller": "Specna Arms",
+      "modell": "SA-F01 FLEX",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "fps": 330
+    },
+    {
+      "hersteller": "Krytac",
+      "modell": "Trident MK2 CRB",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "fps": 330
+    },
+    {
+      "hersteller": "Krytac",
+      "modell": "Kriss Vector",
+      "typ": "SMG",
+      "antrieb": "AEG",
+      "fps": 330
+    },
+    {
+      "hersteller": "VFC",
+      "modell": "HK416A5",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "fps": 330
+    },
+    {
+      "hersteller": "VFC",
+      "modell": "SCAR-L",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "fps": 330
+    },
+    {
+      "hersteller": "VFC",
+      "modell": "MP5A4",
+      "typ": "SMG",
+      "antrieb": "AEG",
+      "fps": 330
+    },
+    {
+      "hersteller": "Ares",
+      "modell": "Amoeba Striker AS-01",
+      "typ": "Sniper",
+      "antrieb": "Federdruck",
+      "fps": 400
+    },
+    {
+      "hersteller": "Umarex",
+      "modell": "Glock 17 Gen.4",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "fps": 290
+    },
+    {
+      "hersteller": "Umarex",
+      "modell": "Beretta M92 FS",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "fps": 280
+    },
+    {
+      "hersteller": "WE",
+      "modell": "G18C",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "fps": 300
+    },
+    {
+      "hersteller": "WE",
+      "modell": "Hi-Capa 5.1",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "fps": 280
+    },
+    {
+      "hersteller": "Well",
+      "modell": "MB4401",
+      "typ": "Sniper",
+      "antrieb": "Federdruck",
+      "fps": 400
+    },
+    {
+      "hersteller": "Silverback",
+      "modell": "SRS A2",
+      "typ": "Sniper",
+      "antrieb": "Federdruck",
+      "fps": 400
+    },
+    {
+      "hersteller": "Wolverine",
+      "modell": "MTW",
+      "typ": "Sturmgewehr",
+      "antrieb": "HPA",
+      "fps": 330
+    }
+  ]
+}
