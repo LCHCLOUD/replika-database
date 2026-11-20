@@ -45,3 +45,29 @@ Maximal 8 MB pro Bild, nur `https`.
 Einträge mit unbekanntem `typ` oder fehlenden Feldern überspringt die App.
 Ist die ganze Datei kaputt oder leer, behält die App den bisherigen Katalog.
 Setze `aktualisiert` bei jeder Änderung auf das aktuelle Datum.
+
+## Spielfelder (`spielfelder.json`)
+
+Die App lädt zusätzlich `spielfelder.json`. Im Missions-Formular öffnet das Listen-Symbol neben dem
+Spielfeld eine Auswahl mit Suche: oben die bisher genutzten Spielfelder, darunter dieser Katalog.
+Wer ein Feld nicht findet, tippt den Namen direkt ein.
+
+```json
+{
+  "version": 1,
+  "aktualisiert": "2026-11-20",
+  "spielfelder": [
+    { "name": "Beispielfeld", "ort": "50667 Köln", "art": "Wald", "website": "https://example.org" }
+  ]
+}
+```
+
+| Feld | Pflicht | Bedeutung |
+|---|---|---|
+| `name` | ja | wird als Spielfeld in die Mission übernommen |
+| `ort` | nein | z. B. PLZ und Stadt, erscheint unter dem Namen |
+| `art` | nein | z. B. `Wald`, `CQB`, `Gebäude`, `Gemischt` |
+| `website` | nein | für spätere Verwendung |
+
+Die Liste darf leer sein. Einträge ohne `name` überspringt die App, eine kaputte Datei lässt den
+bisherigen Stand stehen. Trage nur Felder ein, deren Angaben du geprüft hast: Das Repository ist öffentlich.
