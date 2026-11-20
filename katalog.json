@@ -8,7 +8,7 @@
       "typ": "Pistole",
       "antrieb": "GBB",
       "fps": 320,
-      "bbGewicht": 0.20,
+      "bbGewicht": 0.2,
       "gasArt": "Black Gas"
     },
     {
@@ -17,6 +17,156 @@
       "typ": "Sturmgewehr",
       "antrieb": "AEG",
       "fps": 290
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSG10",
+      "typ": "Sniper",
+      "antrieb": "Federdruck",
+      "notizen": "Federdruck-Sniper. Varianten A1, A2 und A3."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSG11",
+      "typ": "Sniper",
+      "antrieb": "Federdruck",
+      "notizen": "Sniper der SSG-Reihe."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSG96",
+      "typ": "Sniper",
+      "antrieb": "Federdruck",
+      "notizen": "Federdruck-Sniper. Varianten Mk1 und Mk2."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSX10",
+      "typ": "Sniper",
+      "antrieb": "HPA",
+      "notizen": "HPA-Sniper."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSQ4",
+      "typ": "Sturmgewehr",
+      "antrieb": "GBB",
+      "notizen": "Gas-Blowback-Gewehr, auch als HPA-Version. Gas-Typ nicht angegeben."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSQ22",
+      "typ": "Sturmgewehr",
+      "antrieb": "GBB",
+      "notizen": "Gas-Blowback-Gewehr, auch als HPA-Version."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSR4",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "M4-System. Varianten Mk1 und Mk2."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSR63",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "Vorgerüstete AEG. Varianten A1 (Classic), A2 (Modern, M-LOK) und A3 (DMR)."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSR74",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "AK-System."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSR77",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "Bullpup. Varianten A1 und A2."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSR9",
+      "typ": "SMG",
+      "antrieb": "AEG",
+      "notizen": "Pistol Caliber Carbine. Auch als DSG SSR9. Bis zu 36 BBs pro Sekunde."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSR90",
+      "typ": "SMG",
+      "antrieb": "AEG",
+      "notizen": "Bullpup-SMG nach FN P90, lizenziert von FN Herstal. LiPo-Akku."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSR249",
+      "typ": "LMG",
+      "antrieb": "AEG",
+      "notizen": "Unterstützungswaffe."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSX303",
+      "typ": "Sturmgewehr",
+      "antrieb": "GBB",
+      "gasArt": "Green Gas",
+      "notizen": "Leiser, leichter Gas-Karabiner ohne Blowback, auch als HPA-Version."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSP2",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Gas-Blowback-Pistole."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSP5",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Gas-Blowback-Pistole in drei Lauflängen."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSP18",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "fps": 320,
+      "bbGewicht": 0.2,
+      "notizen": "Vollautomatische Gas-Blowback-Pistole. 24 BBs, bis 17 Schuss pro Sekunde."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSP28",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Gas-Pistole der G-Plattform, 28 Schuss pro Sekunde."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSX23",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Gas-Pistole ohne Blowback. Auch als SSX23 High Power."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "SSE18",
+      "typ": "Pistole",
+      "antrieb": "AEG",
+      "notizen": "Elektrische Vollautomatik-Pistole (AEP), auf 0,5 J begrenzt. LiPo-Akku."
+    },
+    {
+      "hersteller": "Novritsch",
+      "modell": "TP22",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Gas-Pistole mit HPA-fähigem Magazin."
     }
   ]
 }

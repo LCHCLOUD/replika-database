@@ -20,7 +20,7 @@ erscheinen in der App, ohne dass ein App-Update nötig ist.
 | `hersteller`, `modell` | ja | Anzeige und Gruppierung im Menü |
 | `typ` | ja | `Sturmgewehr`, `DMR`, `Sniper`, `SMG`, `LMG`, `Pistole`, `Shotgun` |
 | `antrieb` | ja | `AEG`, `GBB`, `HPA`, `Federdruck` |
-| `fps` | ja | Richtwert mit 0,20-g-BBs als Ganzzahl |
+| `fps` | nein | Richtwert mit 0,20-g-BBs als Ganzzahl. Ohne Angabe bleibt FPS in der App offen (0) und du trägst es selbst ein |
 | `bbGewicht` | nein | in Gramm, z. B. `0.25`. Standard: `0.20` |
 | `akkuArt` | nein | `LiPo`, `Li-Ion`, `NiMH`, `NiCd`, `LiFePO4`. Standard bei AEG: `LiPo` |
 | `akku` | nein | Freitext, z. B. `"7,4 V 1200 mAh"` |
