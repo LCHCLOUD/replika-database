@@ -167,6 +167,608 @@
       "typ": "Pistole",
       "antrieb": "GBB",
       "notizen": "Gas-Pistole mit HPA-fähigem Magazin."
+    },
+    {
+      "hersteller": "Beretta",
+      "modell": "MOD. 92 FS",
+      "typ": "Pistole",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 16 Schuss · Länge 216 mm · Gewicht 260 g · empfohlene BBs 0,12 g, 0,20 g · Art.-Nr. 2.5796."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "P30",
+      "typ": "Pistole",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 16 Schuss · Länge 180 mm · Gewicht 287 g · empfohlene BBs 0,12 g, 0,20 g · Art.-Nr. 2.5594."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "MP7 A1 (2.6393X)",
+      "typ": "SMG",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 120 Schuss · Länge 418 mm · Gewicht 1665 g · empfohlene BBs 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6393X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "MP5 Sportsline EyeTrace",
+      "typ": "SMG",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 120 Schuss · Länge 710 mm · Gewicht 3400 g · empfohlene BBs 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6577X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "G36C",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 48 Schuss · Länge 730 mm · Gewicht 1755 g · empfohlene BBs 0,12 g, 0,20 g · Art.-Nr. 2.5621."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "G36C Sportsline EyeTrace",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 360 Schuss · Länge 720 mm · Gewicht 2620 g · empfohlene BBs 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6602X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK416 D",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 300 Schuss · Länge 710 mm · Gewicht 1420 g · empfohlene BBs 0,12 g, 0,20 g · Art.-Nr. 2.6497."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK416 A5 (2.6560X)",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 120/30 Schuss · Länge 730 mm · Gewicht 2900 g · empfohlene BBs 0,25 g, 0,28 g, 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6560X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK416 A5 Sportsline EyeTrace (2.6603X)",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 160 Schuss · Länge 720 mm · Gewicht 2300 g · empfohlene BBs 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6603X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK416 A5 Sportsline EyeTrace (2.6604X)",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 160 Schuss · Länge 720 mm · Gewicht 2300 g · empfohlene BBs 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6604X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK416 CQB",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 300 Schuss · Länge 725 mm · Gewicht 1883 g · empfohlene BBs 0,12 g, 0,20 g · Art.-Nr. 2.5947."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "G95K",
+      "typ": "Sturmgewehr",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 30/120 Schuss · Länge 890 mm · Gewicht 3000 g · empfohlene BBs 0,20 g, 0,25 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6567X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK M110 A1 (2.6237)",
+      "typ": "DMR",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 100 Schuss · Länge 940 mm · Gewicht 3500 g · empfohlene BBs 0,28 g, 0,30 g · Art.-Nr. 2.6237."
+    },
+    {
+      "hersteller": "Walther",
+      "modell": "P99 DAO",
+      "typ": "Pistole",
+      "antrieb": "AEG",
+      "notizen": "Umarex. Magazin 16 Schuss · Länge 180 mm · Gewicht 250 g · empfohlene BBs 0,12 g, 0,20 g · Art.-Nr. 2.5715."
+    },
+    {
+      "hersteller": "Beretta",
+      "modell": "APX RDO",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 22 Schuss · Länge 190 mm · Gewicht 720 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6515."
+    },
+    {
+      "hersteller": "Beretta",
+      "modell": "M9",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 24 Schuss · Länge 215 mm · Gewicht 1070 g · empfohlene BBs 0,20 g · Art.-Nr. 2.5798."
+    },
+    {
+      "hersteller": "Beretta",
+      "modell": "PMX",
+      "typ": "SMG",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 48 Schuss · Länge 637 mm · Gewicht 2400 g · empfohlene BBs 0,20 g, 0,25 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6516X."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G17 (2.6473)",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 20 Schuss · Länge 204 mm · Gewicht 492 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6473."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G17 (2.6412)",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 23 Schuss · Länge 204 mm · Gewicht 649 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6412."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G17 Gen4",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 23 Schuss · Länge 202 mm · Gewicht 659 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6411."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G19 Gen5",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 19 Schuss · Länge 185 mm · Gewicht 612 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6553."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G17 Gen5",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 22 Schuss · Länge 202 mm · Gewicht 640 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6457."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G17 Gen5 MOS",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 20 Schuss · Länge 204 mm · Gewicht 470 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6475."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G17 Gen5 French Edition",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 22 Schuss · Länge 202 mm · Gewicht 650 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6477."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G18C",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 50 Schuss · empfohlene BBs 0,20 g · Art.-Nr. 2.6419X."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G19X",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 22 Schuss · Länge 189 mm · Gewicht 630 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6459."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G19",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 20 Schuss · Länge 187 mm · Gewicht 641 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6413."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G19 Gen4",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 19 Schuss · Länge 185 mm · Gewicht 604 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6456."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G42",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 10 Schuss · Länge 152 mm · Gewicht 391 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6410."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G45",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 22 Schuss · Länge 187 mm · Gewicht 620 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6470."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G45 Gen5 MOS",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 20 Schuss · Länge 189 mm · Gewicht 450 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6476."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "P7 M13",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 16 Schuss · Länge 165 mm · Gewicht 870 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6601."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "P8 A1",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 23 Schuss · Länge 195 mm · Gewicht 815 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6438."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "VP9",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 22 Schuss · Länge 185 mm · Gewicht 729 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6334."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "USP Compact",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 22 Schuss · Länge 174 mm · Gewicht 732 g · empfohlene BBs 0,20 g · Art.-Nr. 2.5682."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "MP7 A1 (2.5970X)",
+      "typ": "SMG",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 40 Schuss · Länge 418 mm · Gewicht 1940 g · empfohlene BBs 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.5970X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK33",
+      "typ": "Sturmgewehr",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 35 Schuss · Länge 920 mm · Gewicht 3150 g · empfohlene BBs 0,20 g, 0,25 g · Art.-Nr. 2.6583X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "G3",
+      "typ": "Sturmgewehr",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 20 Schuss · Länge 1025 mm · Gewicht 3566 g · empfohlene BBs 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6395X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK416 A5 (2.6535X)",
+      "typ": "Sturmgewehr",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 30 Schuss · Länge 790 mm · Gewicht 2790 g · empfohlene BBs 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6535X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK416 A5 (2.6531X)",
+      "typ": "Sturmgewehr",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 30 Schuss · Länge 790 mm · Gewicht 2900 g · empfohlene BBs 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6531X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK416 A5 (2.6532X)",
+      "typ": "Sturmgewehr",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 30 Schuss · Länge 790 mm · Gewicht 2900 g · empfohlene BBs 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.6532X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK417 D",
+      "typ": "DMR",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 20 Schuss · Länge 808 mm · Gewicht 3705 g · empfohlene BBs 0,20 g · 1 weitere Variante bei Umarex · Art.-Nr. 2.5985X."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK M110 A1 (2.6490)",
+      "typ": "DMR",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 20 Schuss · Länge 950 mm · Gewicht 3800 g · empfohlene BBs 0,28 g, 0,30 g · Art.-Nr. 2.6490."
+    },
+    {
+      "hersteller": "Ruger",
+      "modell": "Mini-14",
+      "typ": "Sturmgewehr",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 30 Schuss · Länge 950 mm · Gewicht 2800 g · empfohlene BBs 0,20 g, 0,25 g · Art.-Nr. 2.6605."
+    },
+    {
+      "hersteller": "Walther",
+      "modell": "PPK/S",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 13 Schuss · Länge 150 mm · Gewicht 535 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6568."
+    },
+    {
+      "hersteller": "Walther",
+      "modell": "PDP Compact 4\"",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "notizen": "Umarex. Magazin 20 Schuss · Länge 180 mm · Gewicht 625 g · empfohlene BBs 0,20 g · Art.-Nr. 2.6559."
+    },
+    {
+      "hersteller": "Beretta",
+      "modell": "APX",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 15 Schuss · Länge 190 mm · Gewicht 685 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6302."
+    },
+    {
+      "hersteller": "Beretta",
+      "modell": "MOD. 92 FS CO₂",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 26 Schuss · Länge 210 mm · Gewicht 610 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.5994."
+    },
+    {
+      "hersteller": "Beretta",
+      "modell": "90two",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 15 Schuss · Länge 215 mm · Gewicht 665 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.5913."
+    },
+    {
+      "hersteller": "Combat Zone",
+      "modell": "COP SK",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 15 Schuss · Länge 311 mm · Gewicht 451 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.5958."
+    },
+    {
+      "hersteller": "Elite Force",
+      "modell": "Rogue 11",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 28 Schuss · Länge 215 mm · Gewicht 970 g · empfohlene BBs 0,20 g, 0,25 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6584."
+    },
+    {
+      "hersteller": "Elite Force",
+      "modell": "2011",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 14 Schuss · Länge 225 mm · Gewicht 420 g · empfohlene BBs 0,20 g, 0,25 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6524."
+    },
+    {
+      "hersteller": "Elite Force",
+      "modell": "H8R Gen2",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 10 Schuss · Länge 260 mm · Gewicht 689 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6446."
+    },
+    {
+      "hersteller": "Elite Force",
+      "modell": "TXP",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 11 Schuss · Länge 200 mm · Gewicht 600 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6576."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G17 CO₂",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 14 Schuss · Länge 200 mm · Gewicht 650 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6428."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G17 Gen4 CO₂",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 25 Schuss · Länge 202 mm · Gewicht 663 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6415."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G19 Gen4 MOS",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 12 Schuss · Länge 185 mm · Gewicht 590 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6509."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G17 Gen5 CO₂",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 14 Schuss · Länge 202 mm · Gewicht 675 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6439."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G17 Gen5 MOS CO₂ (2.6551)",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 18 Schuss · Länge 202 mm · Gewicht 655 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6551."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G19 Gen5 CO₂",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 11 Schuss · Länge 177 mm · Gewicht 580 g · empfohlene BBs 0,20 g, 0,30 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6543."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G19 Gen5 MOS",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 18 Schuss · Länge 175 mm · Gewicht 655 g · empfohlene BBs 0,20 g, 0,25 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6552."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G17 Gen5 MOS CO₂ (2.6508)",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 14 Schuss · Länge 202 mm · Gewicht 688 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6508."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G19 CO₂",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 11 Schuss · Länge 186 mm · Gewicht 717 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6418."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G19X CO₂",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 14 Schuss · Länge 190 mm · Gewicht 659 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6435."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G19X MOS",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 18 Schuss · Länge 195 mm · Gewicht 670 g · empfohlene BBs 0,20 g, 0,25 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6554."
+    },
+    {
+      "hersteller": "GLOCK",
+      "modell": "G22 Gen4",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 14 Schuss · Länge 200 mm · Gewicht 645 g · empfohlene BBs 0,20 g, 0,25 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6427."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "VP9 CO₂",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 14 Schuss · Länge 185 mm · Gewicht 646 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6422."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "P8",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 17 Schuss · Länge 200 mm · Gewicht 575 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.5617."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "HK45",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 15 Schuss · Länge 203 mm · Gewicht 630 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.5978."
+    },
+    {
+      "hersteller": "Heckler & Koch",
+      "modell": "MP5 K",
+      "typ": "SMG",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 30 Schuss · Länge 385 mm · Gewicht 1635 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.5786."
+    },
+    {
+      "hersteller": "Legends",
+      "modell": "P08",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 15 Schuss · Länge 216 mm · Gewicht 818 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.5874."
+    },
+    {
+      "hersteller": "Legends",
+      "modell": "Cowboy Rifle",
+      "typ": "DMR",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 10 Schuss · Länge 966 mm · Gewicht 2620 g · empfohlene BBs 0,20 g · Antrieb 2x 12 g CO₂ · Art.-Nr. 2.6388."
+    },
+    {
+      "hersteller": "Marlin",
+      "modell": "Revolver",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 13 Schuss · Länge 275 mm · Gewicht 395 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6575."
+    },
+    {
+      "hersteller": "Ruger",
+      "modell": "SR1911 Competition",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 24 Schuss · Länge 223 mm · Gewicht 870 g · empfohlene BBs 0,20 g, 0,25 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6566."
+    },
+    {
+      "hersteller": "Ruger",
+      "modell": "P345",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 15 Schuss · Länge 195 mm · Gewicht 500 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.5637."
+    },
+    {
+      "hersteller": "Smith & Wesson",
+      "modell": "M&P40",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 15 Schuss · Länge 194 mm · Gewicht 563 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6455."
+    },
+    {
+      "hersteller": "Walther",
+      "modell": "PDP Compact 4\" CO₂ (2.6521)",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 14 Schuss · Länge 183 mm · Gewicht 665 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6521."
+    },
+    {
+      "hersteller": "Walther",
+      "modell": "PDP Compact 4\" Set CO₂ (2.6521-1)",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 14 Schuss · Länge 183 mm · Gewicht 684 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6521-1."
+    },
+    {
+      "hersteller": "Walther",
+      "modell": "PDP Compact 4\" CO₂ (2.6522)",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 11 Schuss · Länge 182 mm · Gewicht 597 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6522."
+    },
+    {
+      "hersteller": "Walther",
+      "modell": "PDP Compact 4\" Set CO₂ (2.6522-1)",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 11 Schuss · Länge 182 mm · Gewicht 622 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.6522-1."
+    },
+    {
+      "hersteller": "Walther",
+      "modell": "P99 DAO CO₂",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "gasArt": "CO2",
+      "notizen": "Umarex. Magazin 15 Schuss · Länge 182 mm · Gewicht 592 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.5684."
     }
   ]
 }
