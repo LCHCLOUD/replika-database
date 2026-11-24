@@ -58,6 +58,35 @@
         }
       ],
       "karte": "https://mr-airsoft.eu/wp-content/uploads/2023/01/0206e44d-a527-4f83-98c8-393270edee6d.jpeg"
+    },
+    {
+      "name": "Woodlandpark Leese",
+      "ort": "Oehmer Feld 101-105, 31633 Leese",
+      "art": "Wald",
+      "website": "https://woodlandpark-leese.de",
+      "beschreibung": "Große Woodland-Arena im Hannover-Umland mit rund 85.000 m² Fläche und mehreren Spielfeldern für Airsoft und Paintball. Es gibt Leihausrüstung für Airsoft und Paintball, einen Shop sowie Getränke und frisch zubereitetes Essen. Geöffnet ist an Samstagen, Sonntagen und Feiertagen von 9 bis 18 Uhr, Montag bis Freitag nur nach Absprache. Tickets gibt es online auf der Website.",
+      "regeln": [
+        "Spielen ist laut Regeln ab 18 Jahren möglich. Für unter 18 gibt es ein eigenes Online-Ticket mit höchstens 0,5 J.",
+        "Gechront wird nach dem Spielgewicht der Bio-BBs. Grenzen: Backup-Waffe 0,5 J, Pistolen und Revolver 1,2 J, MPs und Gewehre 1,8 J, Bolt-Action-Sniper 2,5 J.",
+        "Gespielt wird mit Bio-BBs. Mehrere Chrono-Stationen stehen zur Verfügung.",
+        "Es dürfen nur zugelassene Airsoft-Brillen oder -Masken getragen werden (Erblindungsgefahr). Leihmasken erfüllen die Anforderungen.",
+        "Wer getroffen wird, scheidet aus. Das Feld ist mit Netzen gesichert, vor dem Spiel gibt es eine Sicherheitseinweisung.",
+        "Die Anmeldung kann vorab von der Website heruntergeladen und ausgefüllt werden."
+      ],
+      "preise": [
+        {
+          "titel": "Tagesticket Eigenausrüster (SAEG/GBB), 10–17 Uhr",
+          "preis": "ab 29 €"
+        },
+        {
+          "titel": "Tagesticket U18, max. 0,5 J, 10–17 Uhr",
+          "preis": "ab 29 €"
+        },
+        {
+          "titel": "Leihspielerpaket ab 18: Waffe, Maske, 1000 Bio-BBs",
+          "preis": "ab 59,99 €"
+        }
+      ]
     }
   ]
 }
