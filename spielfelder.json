@@ -1,7 +1,63 @@
 {
   "version": 1,
-  "aktualisiert": "2026-11-20",
+  "aktualisiert": "2026-11-24",
   "spielfelder": [
-  { "name": "Mr. Airsoft", "ort": "Welserstraße 13, 59557 Lippstadt", "art": "CQB", "website": "https://mr-airsoft.eu" }
+    {
+      "name": "Mr. Airsoft",
+      "ort": "Welserstraße 13, 59557 Lippstadt",
+      "art": "CQB",
+      "website": "https://mr-airsoft.eu",
+      "beschreibung": "Die größte CQB-Halle Deutschlands: rund 4200 m² Halle mit etwa 2400 m² reiner Spielfläche, gut ein Drittel eines Fußballfelds. Gespielt wird auf einer Karte aus Straße, Großraumbüro, Gefängnis, Billardraum, Parkhaus und mehr, die so gebaut ist, dass sich das Spiel nicht festfährt. Im Eingangsbereich gibt es ein Airsoft-Café, einen Shop, Umkleiden mit Spinden und eine HPA-Füllstation (200 und 300 bar). Auch Anfänger sind willkommen, Leihausrüstung ist möglich.",
+      "regeln": [
+        "Energie maximal 1,2 J, gechront mit Spielgewicht. Maximales BB-Gewicht 0,25 g. Bei Verstößen droht der sofortige Spielausschluss.",
+        "SEMI only für alle. Kein Full-Auto, Burst nur nach Absprache mit der Orga.",
+        "Kein Sicherheitsabstand, aber nur Gentle-Bang. Keine Backup-Pflicht, keine Begrenzung der Magazingröße.",
+        "Feder- und gasbetriebene Granaten sind erlaubt. Rauch-, Licht- und Soundgranaten sind verboten.",
+        "Vollgesichtsmaske ist Pflicht (Verleih möglich). Auf dem Spielfeld darf die Schutzbrille nie abgenommen werden.",
+        "Spieler von 14 bis 17 Jahren brauchen Ausweis und Einverständnis der Eltern (Muttizettel).",
+        "Anreise in Zivil, höchstens ein Kleidungsstück in Tarn. Waffen und BBs getrennt und verschlossen transportieren.",
+        "Aufrüsten und Aufmunitionieren nur in den Umkleiden, nicht auf dem Parkplatz. Waffen werden erst auf dem Spielfeld ready gemacht.",
+        "Vor dem Verlassen des Spielfelds: Magazin raus, Leerschuss, Waffe sichern, bei HPA den Schlauch abziehen.",
+        "Nicht auf Lampen, Kameras, Decke oder Einrichtung schießen, sonst gibt es Hausverbot. Faustregel: nicht höher als die Holzwände zielen.",
+        "Schilde sind erlaubt: höchstens 50 × 90 cm, blickdicht (kleines Sichtfenster erlaubt). Treffer auf das Schild zählen nicht, Körperkontakt damit ist verboten.",
+        "Striktes Rauchverbot im Gebäude (Raucherecke am Eingang). Absolutes Alkohol- und Drogenverbot, 0,0 Promille.",
+        "Teilnahme auf eigene Gefahr. Bitte das vollständige Regelwerk der Halle lesen."
+      ],
+      "preise": [
+        {
+          "titel": "Donnerstag, Abendrunde 17–20 Uhr",
+          "preis": "15 €"
+        },
+        {
+          "titel": "Freitag, Abendrunde 17–21 Uhr",
+          "preis": "25 €"
+        },
+        {
+          "titel": "Sa/So, ganztags 09–17 Uhr",
+          "preis": "45 €"
+        },
+        {
+          "titel": "Sa/So, halbtags (09–13 oder 13–17 Uhr)",
+          "preis": "25 €"
+        },
+        {
+          "titel": "Speedsoft Pickup, So 11–16 Uhr",
+          "preis": "25 €"
+        },
+        {
+          "titel": "Speedsoft Training, Team (12 Personen), 4 h",
+          "preis": "250 €"
+        },
+        {
+          "titel": "Leihpaket 1: Waffe, 600 BBs, Maske",
+          "preis": "25 €"
+        },
+        {
+          "titel": "Leihpaket 2: wie 1, mit Tracer-BBs",
+          "preis": "30 €"
+        }
+      ],
+      "karte": "https://mr-airsoft.eu/wp-content/uploads/2023/01/0206e44d-a527-4f83-98c8-393270edee6d.jpeg"
+    }
   ]
 }
