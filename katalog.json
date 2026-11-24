@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "aktualisiert": "2026-11-20",
+  "aktualisiert": "2026-11-25",
   "waffen": [
     {
       "hersteller": "Novritsch",
@@ -769,6 +769,25 @@
       "antrieb": "GBB",
       "gasArt": "CO2",
       "notizen": "Umarex. Magazin 15 Schuss · Länge 182 mm · Gewicht 592 g · empfohlene BBs 0,20 g · Antrieb 1x 12 g CO₂ · Art.-Nr. 2.5684."
+    },
+    {
+      "hersteller": "Wolverine Airsoft",
+      "modell": "MTW Forged 10\" Tactical Inferno Edition Gen. 3",
+      "typ": "Sturmgewehr",
+      "antrieb": "HPA",
+      "bbGewicht": 0.32,
+      "akkuArt": "LiPo",
+      "akku": "7,4 V",
+      "notizen": "Wolverine Engine mit FCU, Forged Upper und Lower, 10\" Invictus M-Lok. Magazin 120 BBs · Länge 750 mm · Gewicht 2.400 g · Außenlauf 10,5\" · Innenlauf 285 mm, 6,03 mm · empfohlene BBs 0,32 g · Energie laut Händler bis 2,3 J regulierbar. Frei ab 18 sind in Deutschland höchstens 0,5 J erlaubt. Zum Betrieb nötig: HPA-Regulator mit Schlauch (US-Anschluss) und ein 7,4-V-LiPo mit JST-Stecker für die FCU."
+    },
+    {
+      "hersteller": "Socom Gear",
+      "modell": "N226 MK25 Rail Vollmetall Tan",
+      "typ": "Pistole",
+      "antrieb": "GBB",
+      "bbGewicht": 0.23,
+      "gasArt": "Green Gas",
+      "notizen": "Hersteller laut Händler Socom Gear / Wei-ETech. Vollmetall mit 22-mm-Schiene unter dem Lauf, Farbe Tan/Schwarz. Magazin 25 Schuss · Länge ca. 200 mm · Gewicht ca. 880 g · empfohlene BBs 0,23 g · Leistung laut Händler bis 1 J je nach Gas, als frei ab 18 verkauft. Green Gas oder stärker empfohlen."
     }
   ]
 }
