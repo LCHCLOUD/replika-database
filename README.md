@@ -62,6 +62,7 @@ Wer ein Feld nicht findet, tippt den Namen direkt ein.
       "ort": "Musterstraße 1, 50667 Köln",
       "art": "Wald",
       "website": "https://example.org",
+      "logo": "logos/beispielfeld.png",
       "beschreibung": "Waldfeld mit Dorf und Bunkeranlage, rund 4 ha.",
       "regeln": ["Maximal 1,0 Joule", "Schutzbrille Pflicht", "Keine Pyrotechnik"],
       "preise": [{ "titel": "Tageskarte", "preis": "25 €" }, { "titel": "Leihausrüstung", "preis": "15 €" }],
@@ -79,6 +80,7 @@ Wer ein Feld nicht findet, tippt den Namen direkt ein.
 | `ort` | nein | z. B. PLZ und Stadt, erscheint unter dem Namen |
 | `art` | nein | z. B. `Wald`, `CQB`, `Gebäude`, `Gemischt` |
 | `website` | nein | `https`-Adresse, erscheint als Knopf „Website“ |
+| `logo` | nein | Logo für die Spielfeld-Übersicht: Pfad im Repository (z. B. `"logos/mr-airsoft.png"`) oder `https`-Adresse, max. 8 MB. Ohne Logo zeigt die App ein Karten-Symbol |
 | `beschreibung` | nein | Kurzvorstellung, erscheint in der Liste und im Steckbrief |
 | `regeln` | nein | Liste mit Regeln, je Eintrag ein Punkt |
 | `preise` | nein | Liste aus `titel` und `preis` (beides Text) |
